@@ -19,7 +19,7 @@ Given an input image `image.png`, you’ll see ASCII art printed directly in you
 ```
 
 If we were to use this input image of an elephant and have it use 50 characters per line, this is the output:<br>
-<img src="elephant.png" alt="elephant" width="250">
+<img src="images/elephant.png" alt="elephant" width="250">
 ```
 xxxxxxx#x##x+++*x**x#####################$$$$$$$$$
 #########x=.=+==***+++++*****x##$$##$$$$$$$$$$$$$$
@@ -48,7 +48,7 @@ $$$$$* .--x$$$$$$$*.-+++ .+*x...*$$+.=x$$$$$$$$$$$
 ```
 
 Or, of this rainbow to view how transparent pixels are taken care of:<br>
-<img src="rainbow.png" alt="rainbow" width="250">
+<img src="images/rainbow.png" alt="rainbow" width="250">
 ```
          ++*    -================-    *++ 
        ++   ====+**xxxxxxxxxxxx**+====   ++       
